@@ -15,3 +15,9 @@ Challenge 3: Badges
         1. Create a new badge
         2. Update what doors an existing badge has access to
         3. List all badge numbers and what doors they have access to
+
+Challenge 4: Outings
+    Allows the user to do 1 of 3 things:
+        1. Display a list of all outings
+        2. Add outings to the list
+        3. Show the combined cost of either all outings, or all outings of a specified type
