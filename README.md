@@ -1,5 +1,5 @@
 Challenge 1: Komodo Cafe\
-    Allows the user to do one of three thing:\
+    Allows the user to do one of three things:\
         1. Add an item to the menu\
         2. Remove an item from the menu\
         3. See all items in the menu\
